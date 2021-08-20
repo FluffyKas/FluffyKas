@@ -1,8 +1,8 @@
 ## Hey there friend, I'm Kas :raising_hand:
 
- 
-Welcome to my github profile! If you're here to learn more about me and my projects, you in the right place. If not, I wish you a lovely day still :green_heart:
+<br/>
 
+Welcome to my github profile! If you're here to learn more about me and my projects, you in the right place. If not, I wish you a lovely day still :green_heart:
 
 ***
 
@@ -11,19 +11,28 @@ Welcome to my github profile! If you're here to learn more about me and my proje
 I'm an aspiring frontend developer, embarked on a coding journey in January 2021. I'm currently based in Hungary but that changes by the year. :smile:
 My real name is Zsófi but online I'm usually called Kas (it's your choice which one you prefer).
 
-- :construction: I’m currently working on some FEM projects for my portfolio
+- :construction: I’m currently working on some [FEM](https://www.frontendmentor.io/profile/FluffyKas)  projects for my portfolio
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with anyone who's interested (never did but I'd love to try!)
 - 💬 Ask me about anything web dev related or about video games, books or BIRDS :baby_chick:
-- 📫 How to reach me: check out my linkedin or email
+- 📫 How to reach me: check out my [LinkedIn](https://www.linkedin.com/in/zsofi-maruzs-a5a703216/) 
 - :heart: Fun fact: can't decide between coffee and tea
 
-<!-- Languages and tools
+***
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/sass.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
+### Languages and tools
 
-Github stats -->
+
+***
+
+### Github stats
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyKas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Fluffy Kas's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyKas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
