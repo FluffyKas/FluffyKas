@@ -14,7 +14,7 @@ My real name is Zsófi but online I'm usually called Kas.
 - :construction: I’m currently working on some [FEM](https://www.frontendmentor.io/profile/FluffyKas)  projects for my portfolio
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with anyone who's interested (never did but I'd love to try!)
-- 💬 Ask me about anything web dev related or about video games, books or BIRDS :baby_chick:
+- 💬 I'm happy to talk about: anything web dev related (accessibility and css in particular), video games, books, BIRDS :baby_chick:
 - 📫 How to reach me: check out my [LinkedIn](https://www.linkedin.com/in/zsofi-maruzs-a5a703216/) 
 - :heart: Fun fact: can't decide between coffee and tea
 
