@@ -22,6 +22,13 @@ My real name is Zsófi but online I'm usually called Kas (it's your choice which
 
 ### Languages and tools
 
+- HTML
+- CSS
+- Javascript (and React in progess)
+- Sass
+- Parcel
+- VSCode
+
 ***
 
 ### Github stats
