@@ -1,8 +1,8 @@
-## Hey there friend, I'm Kas :raising_hand:
+## Hey there, I'm Kas :raising_hand:
 
 <br/>
 
-Welcome to my github profile! If you're here to learn more about me and my projects, you in the right place. If not, I wish you a lovely day still :green_heart:
+Welcome to my github profile! If you're here to learn more about me and my projects, you in the right place.
 
 ***
 
