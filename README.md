@@ -15,7 +15,7 @@ My real name is Zsófi but online I'm usually called Kas.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with anyone who's interested (never did but I'd love to try!)
 - 💬 I'm happy to talk about: anything web dev related (accessibility and css in particular), video games, books, BIRDS :baby_chick:
-- 📫 How to reach me: check out my [LinkedIn](https://www.linkedin.com/in/zsofi-maruzs-a5a703216/) or per email(maruzs.zso@gmail.com)
+- 📫 How to reach me: check out my [LinkedIn](https://www.linkedin.com/in/zsofi-maruzs-a5a703216/) or per [email](maruzs.zso@gmail.com)
 - :heart: Fun fact: can't decide between coffee and tea
 
 ***
