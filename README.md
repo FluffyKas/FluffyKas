@@ -9,7 +9,7 @@ Welcome to my github profile! If you're here to learn more about me and my proje
 ### About Me
 
 I'm an aspiring frontend developer, embarked on a coding journey in January 2021. I'm currently based in Hungary but that changes by the year. :smile:
-My real name is Zsófi but online I'm usually called Kas (it's your choice which one you prefer).
+My real name is Zsófi but online I'm usually called Kas.
 
 - :construction: I’m currently working on some [FEM](https://www.frontendmentor.io/profile/FluffyKas)  projects for my portfolio
 - 🌱 I’m currently learning React
