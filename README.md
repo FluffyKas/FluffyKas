@@ -20,6 +20,7 @@ I'm a self-taught frontend developer (or at least aspiring to become one)! I sta
 - Javascript (and React in progess)
 - Sass
 - Parcel
+- Netlify
 - VSCode
 - npm
 - Bootstrap 
