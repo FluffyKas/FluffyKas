@@ -5,7 +5,7 @@
 I'm a self-taught frontend developer (or at least aspiring to become one)! I started my coding journey in January 2021.
 
 - :construction: I’m currently working on some [FEM](https://www.frontendmentor.io/profile/FluffyKas)  projects for my portfolio
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m currently learning Vue/React
 - 👯 I’m looking to collaborate with anyone who's interested (never did but I'd love to try!)
 - 💬 I'm happy to talk about: anything web dev related (accessibility and css in particular), video games, coffee, workout, BIRDS :baby_chick:
 - 📫 How to reach me: check out my [LinkedIn](https://www.linkedin.com/in/zsofi-maruzs-a5a703216/) or per email(maruzs.zso@gmail.com)
