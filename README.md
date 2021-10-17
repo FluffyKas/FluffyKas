@@ -17,7 +17,7 @@ I'm a self-taught frontend developer (or at least aspiring to become one)! I sta
 
 - HTML
 - CSS
-- Javascript
+- Javascript, Typescript
 - Sass
 - Parcel
 - Netlify
