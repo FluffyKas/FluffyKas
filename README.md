@@ -17,6 +17,7 @@ I also enjoy playing board games and video games in my free time.
 - Javascript (probably will be learning it forever)
 - React
 - Framer Motion, animations
+- accessibility
 
 If you'd like to chat or collab with me, you can reach me via [email](maruzs.zso@gmail.com) or find me on [Linkedin](https://www.linkedin.com/in/zsofi-maruzs-a5a703216/)/[Twitter](https://twitter.com/fluffykas).
 
