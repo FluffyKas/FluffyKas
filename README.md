@@ -8,7 +8,7 @@ I also enjoy playing board games and video games in my free time.
 - HTML
 - CSS / Sass
 - Javascript
-- React
+- React, Angular
 - npm
 - Bootstrap, Tailwind
 - VSCode, Parcel, Netlify
